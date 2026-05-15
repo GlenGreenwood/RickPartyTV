@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.RickPartyTV" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>
