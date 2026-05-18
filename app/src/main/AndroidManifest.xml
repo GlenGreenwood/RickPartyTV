@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.rickparty.tv"
+<manifest package="com.seniors2026.tv"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
-        android:label="RickPartyTV"
-        android:theme="@style/Theme.RickPartyTV">
+        android:label="Seniors2026"
+        android:theme="@style/Theme.Seniors2026">
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="RickPartyTV"
+            android:label="Seniors2026"
             android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
