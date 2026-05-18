@@ -21,7 +21,9 @@ class MainActivity : AppCompatActivity(), CommandServer.CommandListener {
     private var images = listOf(
         R.drawable.pic1,
         R.drawable.pic2,
-        R.drawable.pic3
+        R.drawable.pic3,
+        R.drawable.pic4,
+        R.drawable.pic5
     )
     private var index = 0
 
