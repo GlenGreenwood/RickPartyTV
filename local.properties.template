@@ -1,0 +1,5 @@
+# Copy this file to local.properties and set the SDK path for local builds
+# Example:
+# sdk.dir=/home/GlenGreenwood/Android/Sdk
+
+sdk.dir=/path/to/Android/Sdk
