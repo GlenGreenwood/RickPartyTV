@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity(), CommandServer.CommandListener {
         imageView = findViewById(R.id.imageView)
         glitchView = findViewById(R.id.glitchView)
 
-        imageView.scaleType = ImageView.ScaleType.FILL_CENTER
+        imageView.scaleType = ImageView.ScaleType.FIT_CENTER
         imageView.setImageResource(images[index])
 
         startMedia()
